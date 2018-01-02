@@ -23,12 +23,16 @@
   },
   "devDependencies": {
     "ajv": "^5.2.2",
+    "autoprefixer": "^7.2.4",
     "eslint": "^4.6.1",
     "eslint-config-airbnb": "^15.1.0",
     "eslint-plugin-import": "^2.7.0",
     "eslint-plugin-jsx-a11y": "^5.1.1",
     "eslint-plugin-react": "^7.3.0",
     "gulp": "^3.9.1",
-    "gulp-watch": "^4.3.11"
+    "gulp-postcss": "^7.0.1",
+    "gulp-watch": "^4.3.11",
+    "postcss-nested": "^3.0.0",
+    "postcss-simple-vars": "^4.1.0"
   }
 }
